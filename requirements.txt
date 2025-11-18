@@ -1,0 +1,7 @@
+scikit-learn
+joblib
+flask
+numpy
+Pillow
+pandas
+scikit-learn>=1.0
